@@ -5,16 +5,16 @@ title: Analysis of Economic Data
 
 ##  Projects
 <a> 
-<img src="pmb2.png" alt="pmb" width="250"/>
+<img src="Harry Hewson-headshot-web 2.png" alt="hjh" width="250"/>
 </a>
 
 ## Contact Information 
 
-Paul Beaumont<br/>
-Department of Economics<br/>
+Harry Hewson<br/>
+Master of Science in Applied Economics<br/>
 Florida State University <br/>
 Tallahassee, Florida, 32306 <br/>
 
-[Email:beaumont@fsu.edu](mailto:beaumont@fsu.edu)
+[Email:hewsonharry.6@gmail.com](mailto:hewsonharry.6@gmail.com)
 
-[Web Page:](https://paulmbeaumont.netlify.app/)
+[Web Page:](https://www.linkedin.com/in/harry-hewson-03b4ba199/)
